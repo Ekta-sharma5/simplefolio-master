@@ -122,9 +122,9 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 <section id="hero" class="jumbotron">
   <div class="container">
     <h1 class="hero-title load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
+      Hi, my name is <span class="text-color-main">Ekta Sharma</span>
       <br />
-      I'm the Unknown Developer.
+      I'm Python Developer.
     </h1>
     <p class="hero-cta load-hidden">
       <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
